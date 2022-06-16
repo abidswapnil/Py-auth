@@ -1,2 +1,3 @@
 # py-auth
-simple auth model created in python
+simple authentication model
+
