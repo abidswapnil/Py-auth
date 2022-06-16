@@ -1,3 +1,3 @@
 # py-auth
-simple authentication model
+simple authentication model v1
 
